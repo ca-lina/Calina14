@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Calina
 
-<!--
-**Calina14/Calina14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **physics student** exploring the universe one project at a time.  
+Passionate about **science, code, and math**.
 
-Here are some ideas to get you started:
+## 🚀 I'm working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Self-learning **Python** for data analysis and simulations
+- 🧠 Building personal projects to explore physics concepts
+- 📚 Reading about **quantum mechanics**, **numerical methods**, and **computational physics**
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+## 🧠 Different Laboratory Work I've done during my studies: 
+- 
